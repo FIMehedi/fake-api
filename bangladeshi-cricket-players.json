@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "salary": "4762",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
+}, {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "salary": 4762,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+}, {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "role": "WK-Batsman",
+    "salary": 4762,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+}, {
+    "id": 4,
+    "name": "Mehidy Hasan",
+    "role": "Bowling Allrounder",
+    "salary": 1190,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg"
+}, {
+    "id": 5,
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "salary": 1785,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+}, {
+    "id": 6,
+    "name": "Mosaddek Hossain",
+    "role": "Batting Allrounder",
+    "salary": 1785,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg"
+}, {
+    "id": 7,
+    "name": "Mahmudullah Riyad",
+    "role": "Batting Allrounder",
+    "salary": 3572,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+}, {
+    "id": 8,
+    "name": "Mashrafe Mortaza",
+    "role": "Bowler",
+    "salary": 4762,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
+}, {
+    "id": 9,
+    "name": "Soumya Sarkar",
+    "role": "Batsman",
+    "salary": 2380,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg"
+}, {
+    "id": 10,
+    "name": "Sabbir Rahman",
+    "role": "Batsman",
+    "salary": 2380,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg"
+}, {
+    "id": 11,
+    "name": "Rubel Hossain",
+    "role": "Bowler",
+    "salary": 1785,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg"
+}, {
+    "id": 12,
+    "name": "Mominul Haque",
+    "role": "Batsman",
+    "salary": 2380,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148275/mominul-haque.jpg"
+}, {
+    "id": 13,
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "salary": 1785,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg"
+}, {
+    "id": 14,
+    "name": "Taijul Islam",
+    "role": "Bowler",
+    "salary": 1190,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148279/taijul-islam.jpg"
+}, {
+    "id": 15,
+    "name": "Liton Das",
+    "role": "WK-Batsman",
+    "salary": 2380,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg"
+}]
